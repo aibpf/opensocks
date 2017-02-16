@@ -1,0 +1,3 @@
+[submodule "opensocks-libev"]
+	path = opensocks-libev
+	url = https://github.com/aibpf/opensocks-libev.git
