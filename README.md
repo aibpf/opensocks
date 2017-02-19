@@ -2,6 +2,6 @@
 > A project powered by APF.
 
 ## License
-![GNU Lesser General Public License v3.0](http://www.gnu.org/graphics/lgplv3-147x51.png)
+![GNU General Public License v3.0](http://www.gnu.org/graphics/gplv3-127x51.png)
 
-This project is under [GNU General Public License v3.0](http://www.gnu.org/copyleft/lesser.html).
+This project is under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl.html).
